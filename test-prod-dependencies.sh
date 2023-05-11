@@ -1,0 +1,2 @@
+yarn --production
+node index
